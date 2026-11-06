@@ -1,0 +1,2 @@
+name = "Fred"
+print("Hello, " + name + "!")
